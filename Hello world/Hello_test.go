@@ -16,7 +16,6 @@ func TestHello(t *testing.T) {
 		want := "Hello, World"
 
 		assertCorrectMessage(t, got, want)
-		//comment
 	})
 }
 
