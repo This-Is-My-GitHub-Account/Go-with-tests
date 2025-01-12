@@ -13,10 +13,10 @@ Below is the list of topics covered in the tutorial. Completed topics are marked
 ### Go Fundamentals
 - ✅ **Install Go**
 - ✅ **Hello, World**
-- [ ] **Integers**
-- [ ] **Iteration**
-- [ ] **Arrays and slices**
-- [ ] **Structs, methods & interfaces**
+- ✅ **Integers**
+- ✅ **Iteration**
+- ✅ **Arrays and slices**
+- ✅ **Structs, methods & interfaces**
 - [ ] **Pointers & errors**
 - [ ] **Maps**
 - [ ] **Dependency Injection**
