@@ -18,7 +18,7 @@ Below is the list of topics covered in the tutorial. Completed topics are marked
 - ✅ **Arrays and slices**
 - ✅ **Structs, methods & interfaces**
 - ✅ **Pointers & errors**
-- [ ] **Maps**
+- ✅ **Maps**
 - [ ] **Dependency Injection**
 - [ ] **Mocking**
 - [ ] **Concurrency**
