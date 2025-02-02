@@ -19,7 +19,7 @@ Below is the list of topics covered in the tutorial. Completed topics are marked
 - ✅ **Structs, methods & interfaces**
 - ✅ **Pointers & errors**
 - ✅ **Maps**
-- [ ] **Dependency Injection**
+- ✅  **Dependency Injection**
 - [ ] **Mocking**
 - [ ] **Concurrency**
 - [ ] **Select**
