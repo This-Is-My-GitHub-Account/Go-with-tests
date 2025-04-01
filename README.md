@@ -20,8 +20,8 @@ Below is the list of topics covered in the tutorial. Completed topics are marked
 - ✅ **Pointers & errors**
 - ✅ **Maps**
 - ✅  **Dependency Injection**
-- [ ] **Mocking**
-- [ ] **Concurrency**
+- ✅ **Mocking**
+- ✅ **Concurrency**
 - [ ] **Select**
 - [ ] **Reflection**
 - [ ] **Sync**
