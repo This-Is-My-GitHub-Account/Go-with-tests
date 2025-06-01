@@ -22,7 +22,7 @@ Below is the list of topics covered in the tutorial. Completed topics are marked
 - ✅  **Dependency Injection**
 - ✅ **Mocking**
 - ✅ **Concurrency**
-- [ ] **Select**
+- ✅ **Select**
 - [ ] **Reflection**
 - [ ] **Sync**
 - [ ] **Context**
