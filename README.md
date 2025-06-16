@@ -23,7 +23,7 @@ Below is the list of topics covered in the tutorial. Completed topics are marked
 - ✅ **Mocking**
 - ✅ **Concurrency**
 - ✅ **Select**
-- [ ] **Reflection**
+- ✅ **Reflection**
 - [ ] **Sync**
 - [ ] **Context**
 - [ ] **Intro to property-based tests**
